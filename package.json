@@ -1,0 +1,23 @@
+{
+  "name": "workshopspa",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "handlebars": "^4.7.6",
+    "sammy": "^0.7.6"
+  },
+  "devDependencies": {
+    "lite": "^4.0.5",
+    "lite-server": "^2.6.1",
+    "server": "^1.0.31"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
